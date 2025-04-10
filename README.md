@@ -28,18 +28,18 @@ for future promotions and optimize low performers.
 - For example, some sub-categories like Phones and Chairs show better margin control, even 
 at moderate discounts. 
 # Regional Profit Distribution 
-- he Map Visualization shows profits concentrated in key metropolitan areas: 
-o Highest Profit States include New York, Illinois (Chicago), and Pennsylvania 
+- The Map Visualization shows profits concentrated in key metropolitan areas: 
+   - o Highest Profit States include New York, Illinois (Chicago), and Pennsylvania 
 - This spatial insight helps in focusing marketing and inventory strategies based on regional 
 performance. 
 # Interactive Filters / Slicers 
-The dashboard includes dynamic slicers to drill down the analysis: 
--Date Range 
- Region 
-• Customer Segment 
-• Product Category 
-• Month 
-• Sub-Category 
+# The dashboard includes dynamic slicers to drill down the analysis: 
+- Date Range 
+- Region 
+- Customer Segment 
+- Product Category 
+- Month 
+- Sub-Category 
 These slicers empower users to customize views for deeper, segment-wise insights and scenario 
 planning. 
 # Recommendations 
