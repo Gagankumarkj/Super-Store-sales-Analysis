@@ -1,4 +1,8 @@
 ## Executive Summary: Superstore Sales Dashboard (2023) 
+
+## Dataset used
+- <a href ="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+
 # Overview 
 - This interactive Power BI dashboard provides a comprehensive analysis of Superstore's sales 
 performance for the year 2023. It includes key performance indicators (KPIs), monthly trends, 
