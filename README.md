@@ -1,7 +1,7 @@
 ## Executive Summary: Superstore Sales Dashboard (2023) 
 
 ## Dataset used
-- <a href ="https://github.com/ritikbh193/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
+- <a href ="https://github.com/Gagankumarkj/Super-Store-sales-Analysis/blob/main/Superstore_Sales_Dataset%20(1)%20(1).xlsx"
 
 # Overview 
 - This interactive Power BI dashboard provides a comprehensive analysis of Superstore's sales 
